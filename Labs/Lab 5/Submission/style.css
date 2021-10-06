@@ -1,3 +1,19 @@
 .title {
     font-size: 3rem;
 }
+
+#blue {
+    color: blue;
+}
+
+#cream {
+    background-color: #FFFDD0;
+}
+
+body {
+    background-color: gray;
+}
+
+li {
+    text-transform: uppercase;
+}
